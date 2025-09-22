@@ -15,10 +15,15 @@ Model Training and Evaluation:
 The dataset was split into training and testing sets. The following models were trained and evaluated for their accuracy in predicting rain:
 
 Logistic Regression: Achieved an accuracy of 0.93.
+
 Decision Tree: Achieved an accuracy of 1.00.
+
 Random Forest: Achieved an accuracy of 1.00.
+
 Artificial Neural Network (ANN): Achieved an accuracy of 1.00.
+
 Convolutional Neural Network (CNN): Achieved an accuracy of 1.00.
+
 Results:
 
 The Decision Tree, Random Forest, ANN, and CNN models all achieved perfect accuracy (1.00) on the test set, indicating that they are highly effective in predicting rain based on the given features. The Logistic Regression model also performed well with an accuracy of 0.93.
